@@ -32,8 +32,4 @@ const chatRoomChannel = consumer.subscriptions.create("ChatRoomChannel", {
   }
 });
 
-<<<<<<< HEAD
 export default chatRoomChannel;
-=======
-export default chatRoomChannel;
->>>>>>> c657302de7bbbda62f24904393ed7c289854cf72
