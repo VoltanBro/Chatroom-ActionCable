@@ -219,7 +219,6 @@ DEPENDENCIES
   selenium-webdriver
   spring
   turbolinks (~> 5)
-  tzinfo-data
   web-console (>= 4.1.0)
   webdrivers
   webpacker (~> 5.0)
